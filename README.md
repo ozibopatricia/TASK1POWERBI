@@ -1,13 +1,13 @@
 # TASK1POWERBI
 ## Import the superstore dataset
 
-![](SUPERSTOREDATAIMPORT.PNG)
+![](SUPERSTOREDATAIMPORT.png)
 
 
 ## Create a table
 
-![](TABLECREATION.PNG)
+![](TABLECREATION.png)
 
 ## 
 
-![](TABLEVIEWOFNEWTABLE.PNG)
+![](TABLEVIEWOFNEWTABLE.png)
